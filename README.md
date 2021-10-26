@@ -2,9 +2,9 @@
 
 A starter template for html5 using strong library and frontend tooling, uses , WindiCSS to compile TailwindCSS, FeatherIcons to use icon, Lazyload for lazy compoenent and Vite to frontend tooling.
 
-[WindiCSS](https://windicss.org/)
-[FeatherIcons](https://feathericons.com/)
-[Lazyload](https://www.andreaverlicchi.eu/vanilla-lazyload/)
+[WindiCSS](https://windicss.org/) <br />
+[FeatherIcons](https://feathericons.com/) <br />
+[Lazyload](https://www.andreaverlicchi.eu/vanilla-lazyload/) <br />
 [Vite](https://vitejs.dev)  
 
 ## Install
