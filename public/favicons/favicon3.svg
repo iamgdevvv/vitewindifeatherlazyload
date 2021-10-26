@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#46e3de"/>
+      <stop offset="1" stop-color="#f7ff33"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#60e7c4"/>
+      <stop offset="1" stop-color="#dcfa4c"/>
+    </linearGradient>
+  </defs>
+  <g id="favicon3" transform="translate(-323 -186)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="512" height="512" rx="128" transform="translate(323 186)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="492" height="492" rx="128" transform="translate(333 196)" fill="#fff"/>
+    <path id="logo-boekrak" d="M353.145,0H2V374.554H13.7v-11.7H113.2v11.7h11.7v-11.7H230.244v11.7h11.7v-11.7H341.44v11.7h11.7V357h0ZM89.786,351.145H37.114v-11.7H89.786Zm0-23.41H37.114v-11.7H89.786Zm0-23.41H37.114v-11.7H89.786Zm23.41,46.819h-11.7V280.916H25.41v70.229H13.7V245.8H113.2ZM37.114,234.1V175.572h11.7V234.1Zm40.967,0V175.572h11.7V234.1Zm35.114,0h-11.7V163.868H66.377V234.1H60.524V163.868H25.41V234.1H13.7V128.753H113.2ZM37.114,117.048V58.524h11.7v58.524Zm40.967,0V58.524h11.7v58.524Zm35.114,0h-11.7V46.819H66.377v70.229H60.524V46.819H25.41v70.229H13.7V11.7H113.2Zm49.746,234.1h-11.7V292.621h11.7Zm40.967,0H192.2V292.621h11.7Zm26.336,0H215.613V280.916H180.5v70.229h-5.852V280.916H139.532v70.229H124.9V245.8H230.244ZM203.908,198.982v11.7H151.237v-11.7Zm-52.672-11.7v-11.7h52.672v11.7Zm52.672,35.114v11.7H151.237v-11.7Zm26.336,11.7H215.613V163.868H139.532V234.1H124.9V128.753H230.244ZM151.237,117.048V58.524h11.7v58.524Zm40.967,0V58.524h11.7v58.524Zm38.041,0H215.613V46.819H180.5v70.229h-5.852V46.819H139.532v70.229H124.9V11.7H230.244Zm87.786,234.1H265.359v-11.7H318.03Zm0-23.41H265.359v-11.7H318.03Zm0-23.41H265.359v-11.7H318.03Zm23.41,46.819h-11.7V280.916H253.654v70.229h-11.7V245.8H341.44ZM265.359,234.1V175.572h11.7V234.1Zm40.967,0V175.572h11.7V234.1Zm35.115,0h-11.7V163.868H294.621V234.1h-5.852V163.868H253.654V234.1h-11.7V128.753H341.44ZM265.359,117.048V58.524h11.7v58.524Zm40.967,0V58.524h11.7v58.524Zm35.115,0h-11.7V46.819H294.621v70.229h-5.852V46.819H253.654v70.229h-11.7V11.7H341.44Z" transform="translate(401.428 254.723)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

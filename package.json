@@ -1,0 +1,20 @@
+{
+  "name": "vitewindifeatherlazyload",
+  "author": "iamgdev",
+  "repository": "https://github.com/iamgdevvv/vitewindifeatherlazyload.git",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.11",
+    "vite-plugin-windicss": "^1.4.12",
+    "windicss": "^3.1.9"
+  },
+  "dependencies": {
+    "feather-icons": "^4.28.0",
+    "vanilla-lazyload": "^17.5.0"
+  }
+}
